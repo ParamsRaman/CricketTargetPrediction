@@ -10,6 +10,11 @@ Final Report / 902489635.pdf
 
 There has been a recent increase in the use of technology in sports to increase the fairness of the results. The objective of this paper is to apply machine learning techniques to the game of cricket for target prediction in case of interruption to the game. We first evaluate and identify some of the shortcomings of the predominantly used Duckworth - Lewis method (D/L) for target prediction. Then, we ran feature estimation algorithms to identify the important features that help in target prediction. Then we discuss how the some of the shortcomings of D/L method can be overcome with Machine Learning ideas. Then we discuss Regression type algorithms which perform as well as D/L method but also take into consideration some of the features that D/L overlooks. We provide a framework to compare the target prediction algorithms with one another. Finally, we discuss the results of the Machine Learning algorithm against benchmarks and ways to enhance the prediction models by modeling additional aspects such as momemtum of a game.
 
+## Source Code
+
+The scripts we used for data crawling and processing are in php. For the algorithms, we directly made use of methods available in 
+the Weka ML Library: http://www.cs.waikato.ac.nz/ml/weka/
+
 ## Members:
 
 v.ramakrishnan@gatech.edu
