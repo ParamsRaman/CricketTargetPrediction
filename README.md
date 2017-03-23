@@ -1,6 +1,6 @@
 # Target Score Prediction in the game of Cricket
 
-This is project submitted as part of CS 7641 - Machine Learning course - (Grad). The project explores the use of machine learning
+This is a project submitted as part of CS 7641 - Machine Learning course - (Grad). The project explores the use of machine learning
 techniques to try and predict the target scores in rain interrupted matches in the game of cricket. Typical approaches used for the same mostly rely on heuristics. Our aim is to incorporate learning algorithms to do this.
 
 Abstract:
