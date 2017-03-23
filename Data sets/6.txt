@@ -1,0 +1,256 @@
+3rd Match, Group B: South Africa v New Zealand at Centurion, Sep 24, 2009 | Cricket Commentary | Cricinfo.com
+0.1 1 0 Mills Smith
+0.2 1 0 Mills Amla
+0.3 1 0 Mills Amla
+0.4 3 0 Mills Amla
+0.4 4 0 Mills Amla
+0.5 4 0 Mills Smith
+0.6 5 0 Mills Smith
+1.1 5 0 Bond Smith
+1.2 5 0 Bond Amla
+1.3 5 0 Bond Amla
+1.4 5 0 Bond Amla
+1.5 7 0 Bond Amla
+1.6 8 0 Bond Amla
+2.1 8 0 Mills Amla
+2.2 10 0 Mills Amla
+2.3 10 0 Mills Amla
+2.4 10 0 Mills Amla
+2.5 14 0 Mills Amla
+2.6 14 0 Mills Amla
+3.1 15 0 Bond Smith
+3.2 15 0 Bond Amla
+3.3 16 0 Bond Amla
+3.4 16 0 Bond Smith
+3.5 16 0 Bond Smith
+3.6 16 0 Bond Smith
+4.1 16 0 Mills Amla
+4.2 16 0 Mills Amla
+4.3 16 0 Mills Amla
+4.4 18 0 Mills Amla
+4.5 18 0 Mills Amla
+4.6 18 0 Mills Amla
+5.1 18 0 Tuffey Smith
+5.2 18 0 Tuffey Smith
+5.3 18 0 Tuffey Smith
+5.4 22 0 Tuffey Smith
+5.5 22 0 Tuffey Smith
+5.6 22 1 Tuffey Smith
+6.1 23 1 Mills Amla
+6.2 24 1 Mills Kallis
+6.3 25 1 Mills Amla
+6.4 29 1 Mills Kallis
+6.5 29 1 Mills Kallis
+6.6 29 1 Mills Kallis
+7.1 29 1 Tuffey Amla
+7.2 29 1 Tuffey Amla
+7.3 29 1 Tuffey Amla
+7.4 29 1 Tuffey Amla
+7.5 29 1 Tuffey Amla
+7.6 29 1 Tuffey Amla
+8.1 33 1 Bond Kallis
+8.2 33 1 Bond Kallis
+8.3 34 1 Bond Kallis
+8.4 34 1 Bond Amla
+8.5 35 1 Bond Amla
+8.6 36 1 Bond Kallis
+9.1 36 1 Tuffey Kallis
+9.2 40 1 Tuffey Kallis
+9.3 44 1 Tuffey Kallis
+9.4 44 1 Tuffey Kallis
+9.5 45 1 Tuffey Kallis
+9.6 45 1 Tuffey Amla
+10.1 45 1 Bond Kallis
+10.2 46 1 Bond Kallis
+10.3 47 1 Bond Amla
+10.4 51 1 Bond Kallis
+10.5 51 1 Bond Kallis
+10.6 52 1 Bond Kallis
+11.1 52 1 Tuffey Kallis
+11.2 53 1 Tuffey Kallis
+11.3 54 1 Tuffey Amla
+11.4 54 1 Tuffey Kallis
+11.5 55 1 Tuffey Kallis
+11.6 55 1 Tuffey Amla
+12.1 55 1 Bond Kallis
+12.2 55 1 Bond Kallis
+12.3 56 1 Bond Kallis
+12.4 57 1 Bond Amla
+12.5 57 1 Bond Kallis
+12.6 58 1 Bond Kallis
+13.1 58 1 Vetri 
+13.2 59 1 Vetri 
+13.3 59 1 Vetri 
+13.4 60 1 Vetri 
+13.4 61 1 Vetri 
+13.5 61 1 Vetri 
+13.6 61 1 Vetri 
+14.1 61 1 Bond Amla
+14.2 62 1 Bond Amla
+14.3 66 1 Bond Kallis
+14.4 68 1 Bond Kallis
+14.5 68 1 Bond Kallis
+14.6 68 1 Bond Kallis
+15.1 68 1 Vetri 
+15.2 72 1 Vetri 
+15.3 73 1 Vetri 
+15.4 73 1 Vetri 
+15.5 73 1 Vetri 
+15.6 73 1 Vetri 
+16.1 73 1 Bond Amla
+16.2 74 1 Bond Amla
+16.3 74 2 Bond Kallis
+16.4 75 2 Bond de Villiers
+16.5 76 2 Bond Amla
+16.5 80 2 Bond Amla
+16.6 80 2 Bond Amla
+17.1 80 2 Vetri 
+17.2 80 2 Vetri 
+17.3 80 2 Vetri 
+17.4 81 2 Vetri 
+17.5 81 2 Vetri 
+17.6 82 2 Vetri 
+18.1 83 2 Tuffey Amla
+18.2 83 2 Tuffey de Villiers
+18.3 83 2 Tuffey de Villiers
+18.4 84 2 Tuffey de Villiers
+18.5 85 2 Tuffey Amla
+18.5 85 2 Tuffey Amla
+18.6 85 2 Tuffey Amla
+19.1 85 2 Vetri 
+19.2 86 2 Vetri 
+19.3 87 2 Vetri 
+19.4 88 2 Vetri 
+19.5 89 2 Vetri 
+19.6 89 2 Vetri 
+20.1 90 2 Tuffey Amla
+20.2 92 2 Tuffey de Villiers
+20.3 92 2 Tuffey de Villiers
+20.4 92 2 Tuffey de Villiers
+20.5 96 2 Tuffey de Villiers
+20.6 100 2 Tuffey de Villiers
+21.1 100 2 Vetri 
+21.2 100 2 Vetri 
+21.3 101 2 Vetri 
+21.4 101 2 Vetri 
+21.5 103 2 Vetri 
+21.6 103 2 Vetri 
+22.1 103 2 Ryder Amla
+22.2 103 2 Ryder Amla
+22.3 104 2 Ryder Amla
+22.4 104 2 Ryder de Villiers
+22.5 104 2 Ryder de Villiers
+22.6 108 2 Ryder de Villiers
+23.1 108 2 Vetri 
+23.2 108 3 Vetri 
+23.3 108 3 Vetri 
+23.4 108 3 Vetri 
+23.5 108 3 Vetri 
+23.6 112 3 Vetri 
+24.1 113 3 Mills de Villiers
+24.2 113 3 Mills Duminy
+24.3 113 3 Mills Duminy
+24.4 113 3 Mills Duminy
+24.5 114 3 Mills Duminy
+24.6 116 3 Mills de Villiers
+25.1 118 3 Guptill Duminy
+25.1 119 3 Guptill de Villiers
+25.2 119 3 Guptill Duminy
+25.3 120 3 Guptill Duminy
+25.4 124 3 Guptill de Villiers
+25.5 128 3 Guptill de Villiers
+25.6 129 3 Guptill de Villiers
+26.1 129 3 Mills de Villiers
+26.2 133 3 Mills de Villiers
+26.3 134 3 Mills de Villiers
+26.4 138 3 Mills Duminy
+26.5 138 4 Mills Duminy
+26.6 138 4 Mills Boucher
+27.1 138 4 Vetri 
+27.2 139 4 Vetri 
+27.3 139 4 Vetri 
+27.4 139 4 Vetri 
+27.5 140 4 Vetri 
+27.6 140 4 Vetri 
+28.1 141 4 Mills Boucher
+28.2 141 4 Mills de Villiers
+28.3 141 4 Mills de Villiers
+28.4 142 4 Mills de Villiers
+28.5 142 4 Mills Boucher
+28.6 142 4 Mills Boucher
+29.1 142 4 Vetri 
+29.2 142 4 Vetri 
+29.3 142 4 Vetri 
+29.4 143 4 Vetri 
+29.5 143 4 Vetri 
+29.6 144 4 Vetri 
+30.1 148 4 Mills Boucher
+30.2 148 4 Mills Boucher
+30.3 149 4 Mills Boucher
+30.4 150 4 Mills de Villiers
+30.5 151 4 Mills Boucher
+30.6 151 4 Mills de Villiers
+31.1 152 4 Ryder Boucher
+31.2 153 4 Ryder de Villiers
+31.3 157 4 Ryder Boucher
+31.4 157 4 Ryder Boucher
+31.5 161 4 Ryder Boucher
+31.6 161 4 Ryder Boucher
+32.1 161 4 Bond de Villiers
+32.2 162 4 Bond de Villiers
+32.2 162 4 Bond de Villiers
+32.3 162 4 Bond de Villiers
+32.4 163 4 Bond de Villiers
+32.5 166 4 Bond Boucher
+32.6 167 4 Bond de Villiers
+33.1 168 4 Elliott de Villiers
+33.2 169 4 Elliott Boucher
+33.3 169 4 Elliott de Villiers
+33.4 171 4 Elliott de Villiers
+33.5 172 4 Elliott de Villiers
+33.6 172 4 Elliott Boucher
+34.1 172 4 Bond de Villiers
+34.2 173 4 Bond de Villiers
+34.3 177 4 Bond Boucher
+34.4 177 4 Bond Boucher
+34.5 177 4 Bond Boucher
+34.6 177 4 Bond Boucher
+35.1 177 4 Tuffey de Villiers
+35.2 178 4 Tuffey de Villiers
+35.3 178 4 Tuffey Boucher
+35.4 180 4 Tuffey Boucher
+35.5 180 5 Tuffey Boucher
+35.6 184 5 Tuffey Morkel
+36.1 184 5 Bond de Villiers
+36.2 185 5 Bond de Villiers
+36.3 185 5 Bond Morkel
+36.4 185 5 Bond Morkel
+36.5 189 5 Bond Morkel
+36.6 189 5 Bond Morkel
+37.1 189 5 Vetri 
+37.2 189 5 Vetri 
+37.3 189 5 Vetri 
+37.4 189 5 Vetri 
+37.5 189 5 Vetri 
+37.6 189 5 Vetri 
+38.1 189 5 Tuffey Morkel
+38.2 191 5 Tuffey Morkel
+38.3 192 5 Tuffey Morkel
+38.4 196 5 Tuffey de Villiers
+38.5 196 5 Tuffey de Villiers
+38.6 196 5 Tuffey de Villiers
+39.1 197 5 Vetri 
+39.2 197 5 Vetri 
+39.3 199 5 Vetri 
+39.4 200 5 Vetri 
+39.5 204 5 Vetri 
+39.6 205 5 Vetri 
+40.1 205 5 Tuffey Morkel
+40.2 206 5 Tuffey Morkel
+40.3 210 5 Tuffey de Villiers
+40.4 211 5 Tuffey de Villiers
+40.5 212 5 Tuffey Morkel
+40.6 213 5 Tuffey de Villiers
+41.1 217 5 Mills de Villiers
+
+powerplay 10,39

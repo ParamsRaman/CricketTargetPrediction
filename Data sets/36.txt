@@ -1,0 +1,301 @@
+3rd ODI: India v Australia at Delhi, Oct 31, 2009 | Cricket Commentary | Cricinfo.com
+0.1 1 0 Johnson Sehwag
+0.2 2 0 Johnson Tendulkar
+0.2 4 0 Johnson Tendulkar
+0.3 8 0 Johnson Tendulkar
+0.4 8 0 Johnson Tendulkar
+0.5 8 0 Johnson Tendulkar
+0.6 12 0 Johnson Tendulkar
+1.1 1 0 Siddle Sehwag
+1.2 1 0 Siddle Tendulkar
+1.3 1 0 Siddle Tendulkar
+1.4 1 0 Siddle Tendulkar
+1.5 1 0 Siddle Tendulkar
+1.6 2 0 Siddle Tendulkar
+2.1 0 0 Johnson Tendulkar
+2.2 1 0 Johnson Tendulkar
+2.3 1 0 Johnson Sehwag
+2.4 2 0 Johnson Sehwag
+2.5 4 0 Johnson Tendulkar
+2.6 5 0 Johnson Tendulkar
+3.1 0 0 Siddle Tendulkar
+3.2 1 0 Siddle Tendulkar
+3.3 1 0 Siddle Sehwag
+3.4 1 0 Siddle Sehwag
+3.5 2 0 Siddle Sehwag
+3.6 4 0 Siddle Tendulkar
+4.1 0 0 Johnson Sehwag
+4.2 0 0 Johnson Sehwag
+4.3 0 0 Johnson Sehwag
+4.4 1 0 Johnson Sehwag
+4.5 1 0 Johnson Tendulkar
+4.6 1 0 Johnson Tendulkar
+5.1 0 0 Siddle Sehwag
+5.2 0 0 Siddle Sehwag
+5.3 0 0 Siddle Sehwag
+5.4 1 0 Siddle Sehwag
+5.5 1 0 Siddle Tendulkar
+5.6 1 0 Siddle Tendulkar
+6.1 0 0 Johnson Sehwag
+6.2 0 0 Johnson Sehwag
+6.3 1 0 Johnson Sehwag
+6.4 1 0 Johnson Tendulkar
+6.5 1 0 Johnson Tendulkar
+6.6 1 0 Johnson Tendulkar
+7.1 1 0 Siddle Sehwag
+7.2 1 0 Siddle Tendulkar
+7.3 4 0 Siddle Tendulkar
+7.4 4 0 Siddle Sehwag
+7.5 5 0 Siddle Sehwag
+7.6 6 0 Siddle Tendulkar
+8.1 1 0 Johnson Tendulkar
+8.2 5 0 Johnson Sehwag
+8.3 5 0 Johnson Sehwag
+8.4 5 0 Johnson Sehwag
+8.5 5 1 Johnson Sehwag
+8.6 5 1 Johnson Gambhir
+9.1 0 1 Siddle Tendulkar
+9.2 0 1 Siddle Tendulkar
+9.3 0 1 Siddle Tendulkar
+9.4 0 1 Siddle Tendulkar
+9.5 0 1 Siddle Tendulkar
+9.6 2 1 Siddle Tendulkar
+10.1 1 1 Bollinger Gambhir
+10.2 2 1 Bollinger Tendulkar
+10.3 2 1 Bollinger Gambhir
+10.4 3 1 Bollinger Gambhir
+10.5 4 1 Bollinger Tendulkar
+10.6 4 1 Bollinger Gambhir
+11.1 0 1 Henriques Tendulkar
+11.2 1 1 Henriques Tendulkar
+11.3 2 1 Henriques Gambhir
+11.4 2 1 Henriques Tendulkar
+11.5 2 1 Henriques Tendulkar
+11.6 3 1 Henriques Tendulkar
+12.1 0 1 Bollinger Tendulkar
+12.2 1 1 Bollinger Tendulkar
+12.3 1 1 Bollinger Gambhir
+12.4 1 1 Bollinger Gambhir
+12.5 2 1 Bollinger Gambhir
+12.6 3 1 Bollinger Tendulkar
+13.1 0 1 Henriques Tendulkar
+13.2 2 1 Henriques Tendulkar
+13.3 2 2 Henriques Tendulkar
+13.4 3 2 Henriques Gambhir
+13.5 3 2 Henriques Yuvraj Singh
+13.6 3 2 Henriques Yuvraj Singh
+14.1 0 2 Bollinger Gambhir
+14.2 0 2 Bollinger Gambhir
+14.3 1 2 Bollinger Gambhir
+14.4 1 2 Bollinger Yuvraj Singh
+14.5 1 2 Bollinger Yuvraj Singh
+14.6 1 2 Bollinger Yuvraj Singh
+15.1 0 2 Hauritz Gambhir
+15.2 0 3 Hauritz Gambhir
+15.3 0 3 Hauritz Dhoni
+15.4 5 3 Hauritz Dhoni
+15.4 6 3 Hauritz Dhoni
+15.5 7 3 Hauritz Yuvraj Singh
+15.6 8 3 Hauritz Dhoni
+16.1 1 3 Bollinger Dhoni
+16.1 1 3 Bollinger Dhoni
+16.2 1 3 Bollinger Dhoni
+16.3 3 3 Bollinger Dhoni
+16.4 3 3 Bollinger Dhoni
+16.5 3 3 Bollinger Dhoni
+16.6 3 3 Bollinger Dhoni
+17.1 1 3 Hauritz Yuvraj Singh
+17.2 1 3 Hauritz Dhoni
+17.3 2 3 Hauritz Dhoni
+17.4 2 3 Hauritz Yuvraj Singh
+17.5 3 3 Hauritz Yuvraj Singh
+17.6 4 3 Hauritz Dhoni
+18.1 1 3 Bollinger Dhoni
+18.2 1 3 Bollinger Yuvraj Singh
+18.3 1 3 Bollinger Yuvraj Singh
+18.4 2 3 Bollinger Yuvraj Singh
+18.5 3 3 Bollinger Dhoni
+18.6 3 3 Bollinger Yuvraj Singh
+19.1 0 3 Hauritz Dhoni
+19.2 1 3 Hauritz Dhoni
+19.3 1 3 Hauritz Yuvraj Singh
+19.4 5 3 Hauritz Yuvraj Singh
+19.5 5 3 Hauritz Yuvraj Singh
+19.6 5 3 Hauritz Yuvraj Singh
+20.1 0 3 Henriques Dhoni
+20.2 1 3 Henriques Dhoni
+20.3 1 3 Henriques Yuvraj Singh
+20.4 1 3 Henriques Yuvraj Singh
+20.5 5 3 Henriques Yuvraj Singh
+20.6 5 3 Henriques Yuvraj Singh
+21.1 0 3 Hauritz Dhoni
+21.2 0 3 Hauritz Dhoni
+21.3 0 3 Hauritz Dhoni
+21.4 0 3 Hauritz Dhoni
+21.5 1 3 Hauritz Dhoni
+21.6 1 3 Hauritz Yuvraj Singh
+22.1 1 3 Henriques Dhoni
+22.2 3 3 Henriques Yuvraj Singh
+22.3 3 3 Henriques Yuvraj Singh
+22.4 6 3 Henriques Yuvraj Singh
+22.4 7 3 Henriques Yuvraj Singh
+22.5 7 3 Henriques Dhoni
+22.6 9 3 Henriques Dhoni
+22.6 10 3 Henriques Dhoni
+23.1 0 3 Hauritz Dhoni
+23.2 1 3 Hauritz Dhoni
+23.3 2 3 Hauritz Yuvraj Singh
+23.4 3 3 Hauritz Dhoni
+23.5 4 3 Hauritz Yuvraj Singh
+23.6 8 3 Hauritz Dhoni
+24.1 0 3 Bollinger Yuvraj Singh
+24.2 0 3 Bollinger Yuvraj Singh
+24.3 1 3 Bollinger Yuvraj Singh
+24.4 1 3 Bollinger Dhoni
+24.5 1 3 Bollinger Dhoni
+24.6 2 3 Bollinger Dhoni
+25.1 1 3 Hauritz Dhoni
+25.2 1 3 Hauritz Yuvraj Singh
+25.3 2 3 Hauritz Yuvraj Singh
+25.4 6 3 Hauritz Dhoni
+25.5 7 3 Hauritz Dhoni
+25.6 11 3 Hauritz Yuvraj Singh
+26.1 1 3 Bollinger Dhoni
+26.2 1 3 Bollinger Yuvraj Singh
+26.3 2 3 Bollinger Yuvraj Singh
+26.4 2 3 Bollinger Dhoni
+26.5 2 3 Bollinger Dhoni
+26.6 3 3 Bollinger Dhoni
+27.1 1 3 Siddle Dhoni
+27.2 2 3 Siddle Yuvraj Singh
+27.2 2 3 Siddle Yuvraj Singh
+27.3 2 3 Siddle Yuvraj Singh
+27.4 3 3 Siddle Yuvraj Singh
+27.5 4 3 Siddle Dhoni
+27.6 6 3 Siddle Yuvraj Singh
+27.6 1 3 Siddle Dhoni
+28.1 0 3 Bollinger Dhoni
+28.2 2 3 Bollinger Dhoni
+28.3 3 3 Bollinger Dhoni
+28.4 4 3 Bollinger Yuvraj Singh
+28.5 4 3 Bollinger Dhoni
+28.6 4 3 Bollinger Dhoni
+29.1 0 3 Siddle Yuvraj Singh
+29.2 0 3 Siddle Yuvraj Singh
+29.3 0 3 Siddle Yuvraj Singh
+29.4 1 3 Siddle Yuvraj Singh
+29.5 1 3 Siddle Dhoni
+29.6 2 3 Siddle Dhoni
+30.1 0 3 Johnson Dhoni
+30.2 0 3 Johnson Dhoni
+30.3 0 3 Johnson Dhoni
+30.4 1 3 Johnson Dhoni
+30.5 1 3 Johnson Yuvraj Singh
+30.6 1 3 Johnson Yuvraj Singh
+31.1 0 3 Henriques Dhoni
+31.2 0 3 Henriques Dhoni
+31.3 1 3 Henriques Dhoni
+31.4 2 3 Henriques Yuvraj Singh
+31.5 3 3 Henriques Dhoni
+31.6 4 3 Henriques Yuvraj Singh
+32.1 0 3 Johnson Yuvraj Singh
+32.2 1 3 Johnson Yuvraj Singh
+32.3 2 3 Johnson Dhoni
+32.4 2 3 Johnson Yuvraj Singh
+32.5 3 3 Johnson Yuvraj Singh
+32.6 3 3 Johnson Dhoni
+33.1 6 3 Henriques Yuvraj Singh
+33.2 6 3 Henriques Yuvraj Singh
+33.3 10 3 Henriques Yuvraj Singh
+33.4 11 3 Henriques Yuvraj Singh
+33.5 11 3 Henriques Dhoni
+33.6 11 3 Henriques Dhoni
+34.1 1 3 Voges Yuvraj Singh
+34.2 2 3 Voges Dhoni
+34.3 2 3 Voges Yuvraj Singh
+34.4 8 3 Voges Yuvraj Singh
+34.5 12 3 Voges Yuvraj Singh
+34.6 13 3 Voges Yuvraj Singh
+35.1 0 3 Hauritz Yuvraj Singh
+35.2 0 3 Hauritz Yuvraj Singh
+35.3 1 3 Hauritz Yuvraj Singh
+35.4 2 3 Hauritz Dhoni
+35.5 2 3 Hauritz Yuvraj Singh
+35.6 3 3 Hauritz Yuvraj Singh
+36.1 0 3 Henriques Yuvraj Singh
+36.2 4 3 Henriques Yuvraj Singh
+36.3 8 3 Henriques Yuvraj Singh
+36.4 8 3 Henriques Yuvraj Singh
+36.5 8 3 Henriques Yuvraj Singh
+36.6 8 3 Henriques Yuvraj Singh
+37.1 1 3 Hauritz Dhoni
+37.2 2 3 Hauritz Yuvraj Singh
+37.3 3 3 Hauritz Dhoni
+37.4 3 3 Hauritz Yuvraj Singh
+37.5 3 3 Hauritz Yuvraj Singh
+37.6 3 3 Hauritz Yuvraj Singh
+38.1 1 3 Bollinger Dhoni
+38.2 1 3 Bollinger Yuvraj Singh
+38.3 3 3 Bollinger Yuvraj Singh
+38.4 4 3 Bollinger Yuvraj Singh
+38.5 5 3 Bollinger Dhoni
+38.6 5 3 Bollinger Yuvraj Singh
+39.1 1 3 Siddle Dhoni
+39.2 3 3 Siddle Yuvraj Singh
+39.3 4 3 Siddle Yuvraj Singh
+39.4 5 3 Siddle Dhoni
+39.5 6 3 Siddle Yuvraj Singh
+39.6 6 3 Siddle Dhoni
+40.1 0 3 Bollinger Yuvraj Singh
+40.2 0 3 Bollinger Yuvraj Singh
+40.3 0 3 Bollinger Yuvraj Singh
+40.4 1 3 Bollinger Yuvraj Singh
+40.5 1 3 Bollinger Dhoni
+40.6 1 3 Bollinger Dhoni
+41.1 1 3 Johnson Yuvraj Singh
+41.2 2 3 Johnson Dhoni
+41.3 2 3 Johnson Yuvraj Singh
+41.4 2 3 Johnson Yuvraj Singh
+41.5 2 3 Johnson Yuvraj Singh
+41.6 2 3 Johnson Yuvraj Singh
+42.1 1 3 Hauritz Dhoni
+42.2 2 3 Hauritz Yuvraj Singh
+42.3 2 3 Hauritz Dhoni
+42.4 2 3 Hauritz Dhoni
+42.5 4 3 Hauritz Dhoni
+42.6 4 3 Hauritz Dhoni
+43.1 1 3 Henriques Yuvraj Singh
+43.2 2 3 Henriques Dhoni
+43.2 3 3 Henriques Dhoni
+43.3 7 3 Henriques Yuvraj Singh
+43.4 8 3 Henriques Yuvraj Singh
+43.5 9 3 Henriques Dhoni
+43.6 9 4 Henriques Yuvraj Singh
+44.1 1 4 Hauritz Dhoni
+44.2 1 4 Hauritz Raina
+44.3 1 4 Hauritz Raina
+44.4 1 4 Hauritz Raina
+44.5 1 4 Hauritz Raina
+44.6 1 4 Hauritz Raina
+45.1 1 4 Siddle Dhoni
+45.2 2 4 Siddle Raina
+45.3 2 4 Siddle Dhoni
+45.4 6 4 Siddle Dhoni
+45.5 6 4 Siddle Dhoni
+45.6 6 4 Siddle Dhoni
+46.1 1 4 Johnson Raina
+46.2 5 4 Johnson Dhoni
+46.3 9 4 Johnson Dhoni
+46.4 9 4 Johnson Dhoni
+46.5 10 4 Johnson Dhoni
+46.6 11 4 Johnson Raina
+47.1 0 4 Siddle Raina
+47.2 1 4 Siddle Raina
+47.3 1 4 Siddle Dhoni
+47.4 2 4 Siddle Dhoni
+47.5 3 4 Siddle Raina
+47.6 7 4 Siddle Dhoni
+48.1 0 4 Johnson Raina
+48.2 4 4 Johnson Raina
+
+powerplay 10,45
