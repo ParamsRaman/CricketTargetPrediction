@@ -13,5 +13,7 @@ There has been a recent increase in the use of technology in sports to increase 
 ## Members:
 
 v.ramakrishnan@gatech.edu
+
 sethuraman.krishnan@gatech.edu
+
 params.raman@gatech.edu
